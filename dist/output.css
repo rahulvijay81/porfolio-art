@@ -24,6 +24,9 @@
 ::after {
   --tw-content: '';
 }
+html{
+  scroll-behavior: smooth;
+}
 
 /*
 1. Use a consistent sensible line-height in all browsers.
